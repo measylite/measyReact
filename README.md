@@ -3,7 +3,7 @@ A demo using the React library, ES6 and an open source line chart module. SD Jav
 
 Inside that directory, you can run several commands:
 
-  npm start
+### `npm start`
     Starts the development server.
 
   npm run build
