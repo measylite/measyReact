@@ -16,5 +16,5 @@ Inside that directory, you can run several commands:
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
 
-### `npm start`
-	Start local development server
+### `npm run build`
+	Export all files to a build folder.
