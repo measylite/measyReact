@@ -6,9 +6,6 @@ Inside that directory, you can run several commands:
 ### `npm start`
     Starts the development server.
 
-  npm run build
-    Bundles the app into static files for production.
-
 ### `npm test`
     Starts the test runner.
 
@@ -17,4 +14,7 @@ Inside that directory, you can run several commands:
     and scripts into the app directory. If you do this, you can’t go back!
 
 ### `npm run build`
-	Export all files to a build folder.
+	Exports all build files to a build folder for production.
+
+### `code/React/measyreact-app`
+	Pushed to measyReact; local develpment of the React JS library. A front end development too.  [React Documentation](https://reactjs.org/docs/hello-world.html)
