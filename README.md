@@ -17,5 +17,5 @@ Inside that directory, you can run several commands:
 	Exports all build files to a build folder for production.
 
 ### `code/React/measyreact-app`
-	Pushed to measyReact; local develpment of the React JS library. A front end development too.  
+	Pushed to measyReact; local develpment of the React JS library. A front end development tool.  
 	**React Documentation** https://reactjs.org/docs/hello-world.html
