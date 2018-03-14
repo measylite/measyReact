@@ -18,4 +18,4 @@ Inside that directory, you can run several commands:
 
 ### `code/React/measyreact-app`
 	Pushed to measyReact; local develpment of the React JS library. A front end development too.  
-	[React Documentation](https://reactjs.org/docs/hello-world.html)
+	**React Documentation** https://reactjs.org/docs/hello-world.html
